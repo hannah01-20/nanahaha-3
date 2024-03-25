@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanahaha-3
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web application development
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
